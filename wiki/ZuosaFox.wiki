@@ -1,0 +1,2 @@
+#labels Featured
+这是FireFox2.0版本的zuosafox，现在已经随着FireFox2.0的停止更新而停止更新。
